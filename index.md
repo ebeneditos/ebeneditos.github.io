@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Ernest Benedito
+title: Ernest Benedito Saura
 ---
 
 # Software
@@ -17,8 +17,8 @@ title: Ernest Benedito
 
 # Projects
 
-- [Hiloplatam](https://sites.google.com/site/hiloplatam/): Creating a Video Game (2013-2014).
+- [Master's Thesis 2018](): Creation and Development of an AI Teaching Assistant. 
 
 - [Hack&Health App](https://ebeneditos.github.io/Hack-Health-App/): Winner solution of the [Hack&Health](http://www.terrassa.cat/es/hack-health) 2016.
 
-- [Master's Thesis 2018](): Creation and Development of an AI Teaching Assistant. 
+- [Hiloplatam](https://sites.google.com/site/hiloplatam/): Creating a Video Game (2013-2014).
