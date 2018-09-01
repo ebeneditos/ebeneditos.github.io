@@ -17,7 +17,7 @@ title: Ernest Benedito Saura
 
 # Projects
 
-- [Master's Thesis 2018](): Creation and Development of an AI Teaching Assistant. 
+- [Master's Thesis 2018](https://upcommons.upc.edu/handle/2117/117930?locale-attribute=en): Creation and Development of an AI Teaching Assistant. 
 
 - [Hack&Health App](https://ebeneditos.github.io/Hack-Health-App/): Winner solution of the [Hack&Health](http://www.terrassa.cat/es/hack-health) 2016.
 
