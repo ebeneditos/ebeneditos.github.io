@@ -11,9 +11,9 @@ title: Ernest Benedito Saura
 
 # Software
 
-- [telegram](https://github.com/ebeneditos/telegram) (contributor): An R wrapper around the [Telegram Bot API](https://core.telegram.org/bots/api).
+- [telegram.bot](https://github.com/ebeneditos/telegram.bot) (creator): Develop a Telegram Bot with R.
 
-- [telegram.bot](https://github.com/ebeneditos/telegram.bot): Develop a Telegram Bot with R.
+- [telegram](https://github.com/ebeneditos/telegram) (contributor): An R wrapper around the [Telegram Bot API](https://core.telegram.org/bots/api).
 
 # Projects
 
