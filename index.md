@@ -11,16 +11,16 @@ title: Ernest Benedito Saura
 
 # Software
 
-- [telegram.bot](https://github.com/ebeneditos/telegram.bot) (creator): Develop a Telegram Bot with R.
+- [telegram.bot](https://github.com/ebeneditos/telegram.bot) (creator): Develop a Telegram Bot with R
 
-- [infix](https://github.com/ebeneditos/infix) (creator): Basic infix binary operators.
+- [telegram](https://github.com/ebeneditos/telegram) (contributor): An R wrapper around the [Telegram Bot API](https://core.telegram.org/bots/api)
 
-- [telegram](https://github.com/ebeneditos/telegram) (contributor): An R wrapper around the [Telegram Bot API](https://core.telegram.org/bots/api).
+- [infix](https://github.com/ebeneditos/infix) (creator): Basic infix binary operators
 
 # Projects
 
-- [Master's Thesis 2018](https://upcommons.upc.edu/handle/2117/117930?locale-attribute=en): Creation and Development of an AI Teaching Assistant. 
+- [Master's Thesis 2018](https://upcommons.upc.edu/handle/2117/117930?locale-attribute=en): Creation and Development of an AI Teaching Assistant
 
-- [Hack&Health App](https://ebeneditos.github.io/Hack-Health-App/): Winner solution of the [Hack&Health](http://www.terrassa.cat/es/hack-health) 2016.
+- [Hack&Health App](https://ebeneditos.github.io/Hack-Health-App/): Winner solution of the [Hack&Health](http://www.terrassa.cat/es/hack-health) 2016
 
-- [Hiloplatam](https://sites.google.com/site/hiloplatam/): Creating a Video Game (2013-2014).
+- [Hiloplatam](https://sites.google.com/site/hiloplatam/): Creating a Video Game (2013-2014)
