@@ -13,6 +13,8 @@ title: Ernest Benedito Saura
 
 - [telegram.bot](https://github.com/ebeneditos/telegram.bot) (creator): Develop a Telegram Bot with R.
 
+- [infix](https://github.com/ebeneditos/infix) (creator): Basic infix binary operators.
+
 - [telegram](https://github.com/ebeneditos/telegram) (contributor): An R wrapper around the [Telegram Bot API](https://core.telegram.org/bots/api).
 
 # Projects
